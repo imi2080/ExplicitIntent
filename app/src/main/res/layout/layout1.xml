@@ -9,6 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="여기는 액티비티1" />
+        <!-- first android commit -->
 
     <Button
         android:id="@+id/Button01"
